@@ -1,0 +1,13 @@
+{
+  "name": "grunt-phantom-jetstream",
+  "version": "0.0.1",
+  "description": "Grunt task runner for phantom-jetstream",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cthos",
+  "license": "ISC",
+  "devDependencies": {
+    "phantom-jetstream": "git://github.com/cthos/phantom-jetstream"
+  }
+}
