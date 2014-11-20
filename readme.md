@@ -4,6 +4,8 @@
 grunt-phantom-jetstream provides grunt tasks related to running phantom-jetstream against lists of urls
 or sites.
 
+![Screenshot](/screenshots/cli.png?raw=true "Screenshot")
+
 ## Tasks
 
 ### jetstreamreport
